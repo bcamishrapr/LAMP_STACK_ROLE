@@ -1,0 +1,8 @@
+---
+# vars file for config_db
+ db_name: ecomdb
+ db_user: ecomuser
+ db_pass: ecompassword
+ db_host: 3.7.254.125
+ mylocal: localhost
+ phpindex: index.php

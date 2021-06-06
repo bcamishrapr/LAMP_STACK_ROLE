@@ -1,0 +1,6 @@
+---
+- name: Run LAMP Stack
+  hosts: prasoon
+  become: yes
+  roles: 
+    - lamp

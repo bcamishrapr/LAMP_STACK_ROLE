@@ -1,0 +1,9 @@
+aws ansible_host=3.7.254.125
+
+
+[prasoon]
+aws
+
+[prasoon:vars]
+ansible_ssh_private_key_file=./lamp-sg.pem
+ansible_user=ec2-user
